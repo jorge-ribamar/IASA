@@ -1,0 +1,11 @@
+puzzle	puzzle-module.html
+puzzle.pospeca	puzzle-module.html#pospeca
+puzzle.numpecasforalugar	puzzle-module.html#numpecasforalugar
+puzzle.pospuz	puzzle-module.html#pospuz
+puzzle.__package__	puzzle-module.html#__package__
+puzzle.distmanpos	puzzle-module.html#distmanpos
+puzzle.movimentos	puzzle-module.html#movimentos
+puzzle.posval	puzzle-module.html#posval
+puzzle.distmanhattan	puzzle-module.html#distmanhattan
+puzzle.dimpuz	puzzle-module.html#dimpuz
+puzzle.mover	puzzle-module.html#mover

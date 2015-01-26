@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/agente_prospector/agente/agente_prospector.py=utf-8
+encoding//src/agente_prospector/agente/controlo.py=utf-8
+encoding//src/agente_prospector/controlo_react/controlo_react.py=utf-8
+encoding//src/agente_prospector/controlo_react/reaccao/reaccao.py=utf-8
+encoding//src/agente_prospector/controlo_react/reaccoes/reaccao_avancar.py=utf-8
+encoding//src/agente_prospector/teste/teste_controlo_react.py=utf-8
